@@ -13,18 +13,19 @@ Python 3.10+
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <https://github.com/yourusername/last-n-lines-reader.git>
+git clone https://github.com/hidalz/cli-app-read-n-last-lines.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd last-n-lines-reader
+cd cli-app-read-n-last-lines
 ```
 
 3. Install the requirements:
 
 ```bash
+export PYTHONPATH=.
 pip install -r requirements.txt
 ```
 
