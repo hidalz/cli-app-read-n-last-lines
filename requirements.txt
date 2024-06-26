@@ -1,0 +1,7 @@
+# CLI (click)
+click==8.1.7
+iniconfig==2.0.0
+packaging==24.1
+pluggy==1.5.0
+# Testing (pytest)
+pytest==8.2.2
