@@ -36,11 +36,11 @@ To use the application, run the main.py script with Python. The script is design
 2. Run the following command:
 
 ```bash
-python3 main.py <file> <number_of_lines>
+python3 main.py <file_path> <number_of_lines>
 ```
 
-<file>: The path to the file from which to read the last N lines. This path must point to an existing and readable file.
-<number_of_lines>: The number of lines to read from the end of the file.
+- `file_path`: The path to the file from which to read the last N lines. This path must point to an existing and readable file.
+- `number_of_lines`: The number of lines to read from the end of the file.
 
 ## Features
 
