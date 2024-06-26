@@ -6,7 +6,7 @@ This project offers a solution to the task of reading the last N lines from a gi
 
 ### Prerequisites
 
-Python 3.6+
+Python 3.10+
 
 ### Installation
 
