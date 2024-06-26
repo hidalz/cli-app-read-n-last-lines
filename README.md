@@ -25,8 +25,13 @@ cd cli-app-read-n-last-lines
 3. Install the requirements:
 
 ```bash
-export PYTHONPATH=.
 pip install -r requirements.txt
+```
+
+4. Add the directory to the PYTHONPATH
+
+```bash
+export PYTHONPATH=.
 ```
 
 ## Usage
@@ -37,7 +42,7 @@ To use the application, run the main.py script with Python. The script is design
 2. Run the following command:
 
 ```bash
-python3 main.py <file_path> <number_of_lines>
+python3 app/cli.py <file_path> <number_of_lines>
 ```
 
 - `file_path`: The path to the file from which to read the last N lines. This path must point to an existing and readable file.
